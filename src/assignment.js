@@ -11,8 +11,8 @@ const assignment = {};
  * If you did Challenge - 1, remove the comment in the line just after this function
 */
 
- * @param {Array} arrayOfNumbers
- * @returns
+ // * @param {Array} arrayOfNumbers
+ // * @returns
 
 function sumOfNumbers(arrayOfNumbers) {
     return arrayOfNumbers.length;
