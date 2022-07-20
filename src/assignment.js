@@ -10,12 +10,10 @@ const assignment = {};
  * Calculate and return the sum of the numbers in an array.
  * If you did Challenge - 1, remove the comment in the line just after this function
 */
-
  // * @param {Array} arrayOfNumbers
  // * @returns
 
 function sumOfNumbers(arrayOfNumbers) {
-    return arrayOfNumbers.length;
 }
 
 const arrayOfNumbers =[1,2,3,4,5,6,7,8,9,10]
